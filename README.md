@@ -47,12 +47,6 @@ Install the Flask framework and any other necessary packages by running the foll
 pip install Flask
 ```
 
-If a `requirements.txt` file is provided in the project, install dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
-
 ### 4. Run the Flask Application
 
 In the terminal, navigate to the project folder where `main.py` is located, and run the Flask application:
